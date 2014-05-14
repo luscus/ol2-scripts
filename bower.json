@@ -1,16 +1,15 @@
 {
   "name": "ol2-scripts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "OpenLayers.js",
   "location": "https://github.com/luscus/ol2-scripts",
-  "description": "ol2-scripts only wraps the compiled OpenLayers 2.x scripts available at http://openlayers.org/api/",
+  "description": "ol2-scripts only wraps the compiled OpenLayers 2.x scripts available at http://openlayers.org/api/<version>/[<path>/]<doc>",
   "keywords": [
     "openlayers",
     "openlayers 2",
     "ol2"
   ],
   "ignore": [
-    "**/.*"
+    "package.json"
   ]
 }
-
